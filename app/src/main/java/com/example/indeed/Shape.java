@@ -1,4 +1,7 @@
 package com.example.indeed;
 
-public class Shape {
+public abstract class Shape {
+    public int x;
+    public int y;
 }
+
